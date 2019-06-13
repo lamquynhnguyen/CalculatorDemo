@@ -1,3 +1,29 @@
 <resources>
     <string name="app_name">CalculatorDemo</string>
+    <string name="change_theme">Change theme</string>
+    <string name="no_input">No input. Please try again</string>
+    <string name="wrong_format">Wrong format</string>
+    <string name="divide_0">Can not divide by 0</string>
+    <string name="default_value">Default value</string>
+    <string name="result_saved">The result has been saved</string>
+    <string name="save_result">Save result</string>
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="reset">AC</string>
+    <string name="sum">+</string>
+    <string name="subtract">-</string>
+    <string name="multiply">*</string>
+    <string name="divide">/</string>
+    <string name="interest">%</string>
+    <string name="equal">=</string>
+    <string name="negative">+/-</string>
+    <string name="comma">.</string>
 </resources>
